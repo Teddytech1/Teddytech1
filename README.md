@@ -30,7 +30,7 @@
 </table>
 <div align=center>
   <a href="https://github.com/Teddytech1" title="TEDDY TECH">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=mauricegift&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="Gifted" />
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=Teddytech1&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="Teddy" />
     </a>
 </div>
 
