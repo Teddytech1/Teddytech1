@@ -10,7 +10,7 @@
 <a href="https://whatsapp.com/channel/0029Vb4WwGo4CrffIZhlnv1Y"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/WhatsApp.png" width="10%"> </a><a href="https://Instagram.com/Kibet_fx1"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/Instagram2.png" width="11%"> </a>
 </p>
 </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=mauricegift&label=Visitors%20count&color=10d9c3&style=plastic" alt="Shadow Tech" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Teddytech1&label=Visitors%20count&color=10d9c3&style=plastic" alt="Shadow Tech" /> </p>
 </br>
 </details>
 
@@ -24,7 +24,7 @@
       <a href="https://github.com/Teddytech1"><img src="https://github-readme-streak-stats.herokuapp.com?user=mauricegift&theme=merko&border_radius=70&fire=EB5454&stroke=EB5454&border=EB5454" alt="Teddy Tech" /></a>
         </td>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mauricegift&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10" align="center">
+      <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Teddytech1&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10" align="center">
     </td>
   </tr>
 </table>
