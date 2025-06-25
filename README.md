@@ -1,6 +1,6 @@
 
 
-[![Gifted Maurice](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=F51FFF&background=F7F2F20A&vCenter=true&random=false&width=480&lines=Hi+Visitor%F0%9F%91%8B!;My+Name+is+Gifted+Maurice;I+am+a+Self+Learned+Full-Stack+Developer;I+am+from+Kenya;Nice+to+Meet+You)](https://github.com/mauricegift)
+[![Teddy Tech](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=F51FFF&background=F7F2F20A&vCenter=true&random=false&width=480&lines=Hi+Visitor%F0%9F%91%8B!;My+Name+is+Teddy+Tech;I+am+a+Self+Learned+Full-Stack+Developer;I+am+from+Kenya;Nice+to+Meet+You)](https://github.com/Teddytech1)
 
 
 ![Teddy Tech](https://cardivo.vercel.app/api?name=Teddy%20Tech&description=Hi,%20I%27m%20a%20self%20Taught%20Half-Stack%20Developer%20and%20I%27m%2022%20Years%20Nice%20to%20Meet%20You%20%F0%9F%91%8B&image=https://github.com/Teddytech1.png?lenght=50width=50=400&u=5313a9a2f6999325a10ce9bfa9787b536c90894c&v=4?q=tbn:ANd9GcR7aMC3bf4bg4l_nhYS2Un9FXbFYcB4T83Shjk8xSUZDh_D61LFpzbpeqLW&s=10?v=4&backgroundColor=green&instagram=Kibet_fx1&linkedin=Kibetlangat&github=mauricegift&twitter=kibetfx1)
