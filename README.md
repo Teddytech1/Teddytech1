@@ -20,7 +20,7 @@
 <table align="center">
   <tr border="none">
     <td width="50%" align="center">
-       <img src="https://github-readme-stats.vercel.app/api?username=mauricegift&theme=dark&show_icons=true&count_private=true" align="center"> <br> <br>
+       <img src="https://github-readme-stats.vercel.app/api?username=Teddytech1&theme=dark&show_icons=true&count_private=true" align="center"> <br> <br>
       <a href="https://github.com/Teddytech1"><img src="https://github-readme-streak-stats.herokuapp.com?user=mauricegift&theme=merko&border_radius=70&fire=EB5454&stroke=EB5454&border=EB5454" alt="Teddy Tech" /></a>
         </td>
     <td width="50%" align="center">
