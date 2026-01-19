@@ -39,7 +39,7 @@
 <h3>Some of my Projects:</h3>
 
 <a href="https://github.com/Teddytech1/TEDDY-XMD">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Teddytech1&repo=TEDDY-XMD&theme=dark&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Teddytech1&repo=TEDDY-XMD &theme=dark&layout=compact&langs_count=8&card_width=320" />
 </a>
 
 ### Most repos are private so only output are seen
